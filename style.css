@@ -100,11 +100,6 @@ span{
     font-weight: bolder;
 }
 
-.confirm{
-    font-family: cursive;
-    font-weight: normal;
-}
-
 .card{
     border-radius: 3%;
     background-color: rgb(250,238,0);
@@ -137,6 +132,7 @@ h4{
 
     .container {
     width: 80% !important;
+    height: auto !important;
     max-width: none;
     margin: 0 auto;
     }
@@ -189,6 +185,10 @@ h4{
 
     .text{
         font-size: 22px;
+    }
+
+    #finger{
+    display: none;
     }
 }
 
