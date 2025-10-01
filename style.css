@@ -197,7 +197,7 @@ h4{
     }
 }
 
-@media (max-width: 505px){
+@media (max-width: 550px){
     .menu{
         height: 20px;
         width: 20px;
@@ -205,7 +205,7 @@ h4{
     }
 
     .image{
-    height: 500px;
+    height: 400px;
     object-fit: cover;
 }
 
