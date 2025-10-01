@@ -68,12 +68,6 @@ a{
     border-radius: 50%
 }
 
-.img20{
-    height: 600px;
-    object-fit: contain;
-    border-radius: 0%;
-}
-
 .firstYear{
     margin: 10px;
     width: 100%;
