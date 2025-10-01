@@ -127,6 +127,17 @@ h4{
 }
 
 @media (max-width: 750px){
+
+    .container {
+    width: 75% !important;
+    max-width: none;
+    margin: 0 auto;
+    }
+
+    .card {
+    padding: 1rem;
+    }
+
     .nav-links{
         width: 70%;
         font-size: 30px;
