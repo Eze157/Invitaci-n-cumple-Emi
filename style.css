@@ -131,15 +131,17 @@ h4{
 @media (max-width: 750px){
 
     .container {
-    width: 80% !important;
-    height: auto !important;
+    width: 80%;
+    height: auto;
     max-width: none;
     margin: 0 auto;
     }
 
     .image{
-    height: 500px;
-}
+        width: 100%;
+        height: auto;
+        max-height: 500px;
+    }
 
     .card {
     padding: 1rem;
@@ -153,7 +155,6 @@ h4{
         top: 0;
         left: 0;
         height: auto;
-        width: 200px;
         padding: 2rem 1rem;
         z-index: 1000;
         box-shadow: 2px 0 10px rgba(0,0,0,0.2);
@@ -204,8 +205,9 @@ h4{
     }
 
     .image{
-    height: 350px;
-    object-fit: contain;
+        width: 100%;
+        height: auto;
+        max-height: 400px;
     }
 
     .img{
