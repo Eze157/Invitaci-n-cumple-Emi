@@ -11,16 +11,3 @@ if (navLinks.classList.contains('active')) {
     menuToggle.innerHTML = '<img src="img/lista.png" alt="menu" class="img">';
 }
 });
-
-const carousel = document.getElementById('carouselExampleCaptions');
-const video = document.getElementById('videoEmi');
-
-carousel.addEventListener('slid.bs.carousel', function () {
-const activeSlide = carousel.querySelector('.carousel-item.active');
-if (activeSlide.contains(video)) {
-    video.currentTime = 0;
-    video.play();
-} else {
-    video.pause();
-}
-});

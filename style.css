@@ -106,8 +106,8 @@ span{
 }
 
 .image{
-    height: 600px;
-    object-fit: contain;
+    height: 800px;
+    object-fit: cover;
 }
 
 h4{
