@@ -131,8 +131,8 @@ h4{
 @media (max-width: 750px){
 
     .container {
-    width: 80%;
-    height: auto;
+    width: 80% !important;
+    height: auto !important;
     max-width: none;
     margin: 0 auto;
     }
