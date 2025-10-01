@@ -141,6 +141,7 @@ h4{
         width: 100%;
         height: auto;
         max-height: 500px;
+        object-fit: cover;
     }
 
     .card {
@@ -207,7 +208,8 @@ h4{
     .image{
         width: 100%;
         height: auto;
-        max-height: 400px;
+        max-height: 375px;
+        object-fit: cover;
     }
 
     .img{
