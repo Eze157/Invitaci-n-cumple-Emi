@@ -139,8 +139,7 @@ h4{
 
     .image{
         width: 100%;
-        height: auto;
-        max-height: 500px;
+        height: 500px;
         object-fit: cover;
     }
 
@@ -207,8 +206,7 @@ h4{
 
     .image{
         width: 100%;
-        height: auto;
-        max-height: 375px;
+        height: 400px;
         object-fit: cover;
     }
 
