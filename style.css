@@ -26,7 +26,6 @@ body{
     background-color: rgb(255, 238, 0);
 }
 
-/* Agregá esto fuera de las media queries */
 .nav-links.active {
   display: flex !important;
   flex-direction: column;
@@ -94,7 +93,6 @@ h2{
     margin-top: 20px;
     text-align: center;
     font-size: 20px;
-    font-family: cursive;
     color: black;
 }
 
