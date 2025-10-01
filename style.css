@@ -204,6 +204,11 @@ h4{
         cursor: pointer;
     }
 
+    .image{
+    height: 500px;
+    object-fit: cover;
+}
+
     .img{
         border-radius: 0%;
     }
