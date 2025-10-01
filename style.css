@@ -205,9 +205,9 @@ h4{
     }
 
     .image{
-    height: 400px;
-    object-fit: cover;
-}
+        height: 280px;
+        object-fit: cover;
+    }
 
     .img{
         border-radius: 0%;
