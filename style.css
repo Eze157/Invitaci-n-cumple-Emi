@@ -96,6 +96,15 @@ h2{
     color: black;
 }
 
+span{
+    font-weight: bolder;
+}
+
+.confirm{
+    font-family: cursive;
+    font-weight: normal;
+}
+
 .card{
     border-radius: 3%;
     background-color: rgb(250,238,0);
