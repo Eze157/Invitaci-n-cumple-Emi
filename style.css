@@ -203,9 +203,9 @@ h4{
         cursor: pointer;
     }
 
-    /* .image{
-        height: 475px;
-    } */
+    .image{
+    height: 400px;
+    }
 
     .img{
         border-radius: 0%;
